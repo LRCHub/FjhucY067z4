@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ペンパイナッポーアッポーペン(PPAP) (Long ver.)",
+  "base_artist": "ピコ太郎",
+  "createdAt": "2026-03-11T11:26:58.153725Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ペンパイナッポーアッポーペン(PPAP) (Long ver.)",
+      "artist": "ピコ太郎",
+      "has_synced": true,
+      "path": "select/01_ペンパイナッポーアッポーペン(PPAP)_(Long_ver.)_ピコ太郎.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PPAP「ロング」バージョン",
+      "artist": "ピコ太郎",
+      "has_synced": false,
+      "path": "select/pl_01_PPAP「ロング」バージョン_ピコ太郎.txt"
+    }
+  ]
+}
